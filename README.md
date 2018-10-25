@@ -1,1 +1,1 @@
-# This file includes jupyter notebook NLP-Seminar
+# This file includes jupyter notebook for NLP-Seminar.
